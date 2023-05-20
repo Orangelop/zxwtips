@@ -1,0 +1,5 @@
+<Options>
+    <Option Name="InstallAllUsers" Value="1" />
+    <Option Name="SimpleInstall" Value="1" />
+    <Option Name="SimpleInstallDescription">Install Python 3.10.8 ...</Option>
+</Options>
