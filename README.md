@@ -34,3 +34,6 @@ A advanced tool for zhixue.com.
 * √ HOTFIX 修复zhixuewang module的bug，未来将使用branch直接构建
 * ! GUI界面
 * ! 自动安装程序
+
+1.0.1rc1 - 2023/07-01:
+* 简易模糊查找
