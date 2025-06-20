@@ -1,6 +1,6 @@
 # zxwtips
 
-An advanced tool for zhixue.com.
+An advanced tool for zhixue.com.  
 **IMPORTANT MESSAGE: Project closed due to the complex verification updates of zhixue.com, the repo will be archived and no longer avaliable.**
 
 ## Introduction
