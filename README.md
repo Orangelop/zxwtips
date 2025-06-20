@@ -1,7 +1,7 @@
 # zxwtips
 
 An advanced tool for zhixue.com.  
-**IMPORTANT MESSAGE: Project closed due to the complex verification updates of zhixue.com, the repo will be archived and no longer avaliable.**
+**IMPORTANT MESSAGE: Project closed due to the complex verification updates of zhixue.com, and the repo will be archived and no longer avaliable.**
 
 ## Introduction
 
